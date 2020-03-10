@@ -10,3 +10,5 @@ Julia implementation of Bag of words using Naive Bayes method
 
 
 <img width="541" alt="Screen Shot 2019-09-29 at 15 32 39" src="https://user-images.githubusercontent.com/16275685/65879487-8fe20800-e398-11e9-8f00-dd0e71411e16.png">
+
+* The ipynb file is an alternative implementation
